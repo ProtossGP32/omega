@@ -17,7 +17,7 @@
   (fp_arc (start -3.048 -0.508) (end -3.556 -0.508) (angle 90) (layer F.SilkS) (width 0.254))
   (pad 1 thru_hole circle (at -2.54 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 2.54 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
-  (model ${KISYS3DMOD}/Capacitor_THT.3dshapes/C_Disc_D4.3mm_W1.9mm_P5.00mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D4.3mm_W1.9mm_P5.00mm.wrl
     (offset (xyz -2.5 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

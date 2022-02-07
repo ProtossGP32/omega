@@ -53,12 +53,12 @@
   (pad 38 thru_hole circle (at -19.05 -7.62) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 39 thru_hole circle (at -21.59 -7.62) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 40 thru_hole circle (at -24.13 -7.62) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
-  (model ${KISYS3DMOD}/Package_DIP.3dshapes/DIP-40_W15.24mm_Socket.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-40_W15.24mm_Socket.wrl
     (offset (xyz -24.13 -7.62 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))
   )
-  (model ${KISYS3DMOD}/Package_DIP.3dshapes/DIP-40_W15.24mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-40_W15.24mm.wrl
     (offset (xyz -24.13 -7.62 4))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

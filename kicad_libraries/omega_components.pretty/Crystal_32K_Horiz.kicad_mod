@@ -19,12 +19,12 @@
   (pad 2 thru_hole circle (at 1.27 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad ~ thru_hole circle (at -1.27 5.08) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad ~ thru_hole circle (at 1.27 5.08) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
-  (model ${KISYS3DMOD}/Crystal.3dshapes/Crystal_C38-LF_D3.0mm_L8.0mm_Horizontal_1EP_style2.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_C38-LF_D3.0mm_L8.0mm_Horizontal_1EP_style2.wrl
     (offset (xyz -0.95 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model ${KISYS3DMOD}/TestPoint.3dshapes/TestPoint_Bridge_Pitch2.54mm_Drill0.7mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Bridge_Pitch2.54mm_Drill0.7mm.wrl
     (offset (xyz -1.27 -5.07 2))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

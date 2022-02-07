@@ -22,7 +22,7 @@
   (pad 8 thru_hole circle (at 6.35 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 9 thru_hole circle (at 8.89 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   (pad 10 thru_hole circle (at 11.43 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
-  (model ${KISYS3DMOD}/Resistor_THT.3dshapes/R_Array_SIP10.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Array_SIP10.wrl
     (offset (xyz -11.435 0 0.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -25,7 +25,7 @@
   (pad 8 thru_hole circle (at -1.3716 -1.4224) (size 1.524 1.524) (drill 1.0414) (layers *.Cu *.Mask F.SilkS))
   (pad 7 thru_hole circle (at 1.397 -1.4224) (size 1.524 1.524) (drill 1.0414) (layers *.Cu *.Mask F.SilkS))
   (pad 6 thru_hole circle (at 4.1148 -1.4224) (size 1.524 1.524) (drill 1.0414) (layers *.Cu *.Mask F.SilkS))
-  (model ${KISYS3DMOD}/Connector_Dsub.3dshapes/DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_Dsub.3dshapes/DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm.wrl
     (offset (xyz 5.55 -1.43 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))

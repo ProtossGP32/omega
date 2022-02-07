@@ -13,7 +13,7 @@
   )
   (pad 1 thru_hole rect (at -1.25 0) (size 1.49098 1.49098) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 1.25 0) (size 1.49098 1.49098) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
-  (model ${KISYS3DMOD}/Capacitor_THT.3dshapes/CP_Radial_D6.3mm_P2.50mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D6.3mm_P2.50mm.wrl
     (offset (xyz -1.25 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

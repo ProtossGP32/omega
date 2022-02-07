@@ -42,7 +42,7 @@
   (fp_arc (start -15.49908 0) (end -15.99946 0) (angle 90) (layer F.SilkS) (width 0.254))
   (pad 1 thru_hole circle (at -14.00048 0) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 5.99948 0) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
-  (model ${KISYS3DMOD}/Battery.3dshapes/BatteryHolder_Keystone_103_1x20mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_103_1x20mm.wrl
     (offset (xyz -14.2 0 -0.1))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
